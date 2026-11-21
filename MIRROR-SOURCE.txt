@@ -1,0 +1,13 @@
+Submodule mirrored for openancore.
+
+parent: upstream_rust_1.81.0
+path: src/doc/nomicon
+gitmodules_url: https://github.com/rust-lang/nomicon.git
+fetched_from: https://github.com/rust-lang/nomicon.git
+commit: 0ebdacadbda8ce2cd8fbf93985e15af61a7ab895
+branch: master
+fallback_from_github: false
+
+commit is the gitlink recorded on the parent's android-15.0.0_r36 branch.
+branch is the upstream HEAD branch at fetch time. The commit is pushed
+here as android-15.0.0_r36 whether or not it is that branch's tip.
